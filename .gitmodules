@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "FuzzyPovertyR"]
 	path = FuzzyPovertyR
-	url = https://github.com/cran/FuzzyPovertyR
+	url = https://github.com/airdede/fuzzypovertyr
